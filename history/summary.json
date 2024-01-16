@@ -22,19 +22,19 @@
     "url": "https://tangy-clear-food.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/tangy-clear-food.glitch.me.ico",
     "slug": "voicecord",
-    "status": "up",
-    "uptime": "54.35%",
-    "uptimeDay": "54.35%",
-    "uptimeWeek": "54.35%",
-    "uptimeMonth": "54.35%",
-    "uptimeYear": "54.35%",
-    "time": 383,
-    "timeDay": 383,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 319,
+    "timeDay": 319,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2024-01-16": 9
+      "2024-01-16": 0
     }
   }
 ]
