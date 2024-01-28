@@ -4,18 +4,20 @@
     "url": "https://fluffy-maple-ocelot.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/fluffy-maple-ocelot.glitch.me.ico",
     "slug": "16bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 203,
-    "timeWeek": 227,
-    "timeMonth": 256,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
+    "time": 258,
+    "timeDay": 248,
+    "timeWeek": 236,
+    "timeMonth": 258,
+    "timeYear": 258,
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "Voicecord",
