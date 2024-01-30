@@ -22,7 +22,7 @@
     "url": "https://tangy-clear-food.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/tangy-clear-food.glitch.me.ico",
     "slug": "voicecord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2024-01-16": 18
     }
   }
