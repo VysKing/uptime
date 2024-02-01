@@ -4,7 +4,7 @@
     "url": "https://fluffy-maple-ocelot.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/fluffy-maple-ocelot.glitch.me.ico",
     "slug": "16bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 263,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   },
   {
     "name": "Voicecord",
