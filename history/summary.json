@@ -4,10 +4,10 @@
     "url": "https://fluffy-maple-ocelot.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/fluffy-maple-ocelot.glitch.me.ico",
     "slug": "16bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
@@ -15,14 +15,16 @@
     "timeWeek": 230,
     "timeMonth": 249,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-03": 2
+    }
   },
   {
     "name": "Voicecord",
     "url": "https://tangy-clear-food.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/tangy-clear-food.glitch.me.ico",
     "slug": "voicecord",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "97.72%",
     "uptimeWeek": "99.67%",
