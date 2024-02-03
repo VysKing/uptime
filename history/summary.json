@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fluffy-maple-ocelot.glitch.me.ico",
     "slug": "16bot",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "93.33%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.77%",
+    "uptimeDay": "93.97%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 229,
     "timeDay": 77,
     "timeWeek": 185,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-02-03": 96
+      "2024-02-03": 87
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://tangy-clear-food.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/tangy-clear-food.glitch.me.ico",
     "slug": "voicecord",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "92.99%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 361,
-    "timeDay": 910,
-    "timeWeek": 498,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 365,
+    "timeDay": 861,
+    "timeWeek": 499,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-02-03": 101,
+      "2024-02-03": 105,
       "2024-01-16": 18
     }
   }
