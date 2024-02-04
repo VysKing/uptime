@@ -10,11 +10,11 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
-    "time": 229,
+    "time": 225,
     "timeDay": 77,
-    "timeWeek": 185,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "timeWeek": 178,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2024-02-03": 87
     }
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tangy-clear-food.glitch.me.ico",
     "slug": "voicecord",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "92.74%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 365,
-    "timeDay": 861,
-    "timeWeek": 499,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "uptime": "99.55%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 358,
+    "timeDay": 854,
+    "timeWeek": 484,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-02-03": 105,
+      "2024-02-03": 101,
       "2024-01-16": 18
     }
   }
